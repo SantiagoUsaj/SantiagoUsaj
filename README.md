@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Santiago</h1>
-<h3 align="center">A Computer Science Student from Cordoba,Argentina.</h3>
+<h3 align="center">A Computer Science Student from Cordoba, Argentina.</h3>
 
 - 🔭 I’m currently **finishing my degree**
 
