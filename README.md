@@ -3,7 +3,7 @@
 
 - 📝 I’m currently **finishing my degree**
 
-- 📚 I’m learning **Assembler , C & Haskell**
+- 📚 I’m learning **Assembly , C & Haskell**
 
 
 <h3 align="left">Languages I know:</h3>
