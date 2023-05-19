@@ -15,7 +15,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 </p>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=el-yankee&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el-yankee&layout=pie&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-yankee&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=el-yankee&show_icons=true&theme=midnight-purple" />
+</a>
