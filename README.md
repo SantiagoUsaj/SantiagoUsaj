@@ -6,7 +6,7 @@
 - 📚 I’m learning **Assembly , C & Haskell**
 
 
-<h3 align="left">Languages I know:</h3>
+### 🛠 &nbsp;Languages I know
 <p align="left"> 
  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -15,9 +15,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-yankee&theme=midnight-purple" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=el-yankee&show_icons=true&theme=midnight-purple" />
+
+### 🤝🏻 &nbsp;Connect with Me
+<p>
+<a href="https://www.linkedin.com/in/santiago-usaj/"><img src="https://img.shields.io/badge/-Santiago Usaj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+# 📊 GitHub Stats:
+<a href="https://github.com/El-Yankee">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=el-yankee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=el-yankee&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
