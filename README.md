@@ -58,13 +58,13 @@
 
 ###
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Yankee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&order=2" height="250" alt="languages graph"  />
+<div align="left">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Yankee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=El-Yankee.El-Yankee&left_text=Visitors"  />
 </div>
 
