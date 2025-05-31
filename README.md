@@ -1,30 +1,72 @@
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBraDdmbjZlNno4bTAzdTMwYjJxcG45eWVmdWU3aGRpYWZldG44MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi, I'm Santiago</h1>
-<h3 align="center">A Computer Science Student from Cordoba, Argentina.</h3>
 
-- 📝 I’m currently **finishing my degree**
+###
 
-- 📚 I’m learning **Assembly , C & Haskell**
+<h3 align="center">Computer Science Student from Cordoba, Argentina</h3>
 
+###
 
-### 🛠 &nbsp;Languages I know
-<p align="left"> 
- 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-</p>
+<h3 align="left">💻  Languages</h3>
 
-### 🤝🏻 &nbsp;Connect with Me
-<p>
-<a href="https://www.linkedin.com/in/santiago-usaj/"><img src="https://img.shields.io/badge/-Santiago Usaj-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+###
 
-# 📊 GitHub Stats:
-<a href="https://github.com/El-Yankee">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=el-yankee&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=el-yankee&layout=compact&langs_count=8&theme=midnight-purple"/>
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
+</div>
 
-![](https://komarev.com/ghpvc/?username=El-Yankee)
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+</div>
+
+###
+
+<h3 align="left">🤝🏻  Connect with Me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/santiago-usaj/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=El-Yankee&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Yankee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=El-Yankee.El-Yankee&left_text=Visitors"  />
+</div>
+
+###
