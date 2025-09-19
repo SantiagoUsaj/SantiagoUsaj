@@ -43,6 +43,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
+    <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" height="40" alt="GoogleAds" /> 
 </div>
 
 ---
@@ -65,7 +69,6 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoUsaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="200" alt="Languages Graph" />
 </div>
-
 <div align="left">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=El-Yankee.El-Yankee&left_text=Visitors" alt="Visitor Badge" />
 </div>
