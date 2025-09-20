@@ -2,23 +2,18 @@
     <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBraDdmbjZlNno4bTAzdTMwYjJxcG45eWVmdWU3aGRpYWZldG44MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Welcome" />
 </div>
 
-<h1 align="center">Hi, I'm Santiago 👋</h1>
-<h3 align="center">Computer Science Student from Córdoba, Argentina 🇦🇷</h3>
+<h1 align="center">👋 Hola, soy Santiago Usaj</h1>
+<h3 align="center">Desarrollador Frontend Freelance | React • Firebase • Google Ads</h3>
+<h3 align="center">Estudiante de Licenciatura en Ciencias de la Computación — FAMAF, Córdoba, Argentina</h3>
 
 ---
-
 ### 💻 Languages
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <img width="12" />
+<div align="left">    
+    <img width="12" />    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="Haskell" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />    
 </div>
 
 ---
@@ -43,6 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+    <img width="12" />
+    <img src="https://www.svgrepo.com/show/376339/netlify.svg" height="40" alt="Netlify" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
     <img width="12" />
@@ -72,3 +69,10 @@
 <div align="left">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=El-Yankee.El-Yankee&left_text=Visitors" alt="Visitor Badge" />
 </div>
+
+
+
+
+
+
+
