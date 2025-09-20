@@ -2,11 +2,11 @@
     <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBraDdmbjZlNno4bTAzdTMwYjJxcG45eWVmdWU3aGRpYWZldG44MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Welcome" />
 </div>
 
-<h1 align="center">👋 Hola, soy Santiago Usaj</h1>
-<h3 align="center">Desarrollador Frontend Freelance | React • Firebase • Google Ads</h3>
-<h3 align="center">Estudiante de Licenciatura en Ciencias de la Computación — FAMAF, Córdoba, Argentina</h3>
+<h1 align="center">Santiago Usaj</h1>
+<h3 align="center">Frontend Developer | Computer Science Student</h3>
 
 ---
+
 ### 💻 Languages
 
 <div align="left">    
