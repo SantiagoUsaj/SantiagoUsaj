@@ -63,16 +63,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoUsaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="200" alt="Languages Graph" />
-</div>
+<a href="https://github.com/SantiagoUsaj">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=SantiagoUsaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="200" alt="Languages Graph" />
+</a>
 <div align="left">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=El-Yankee.El-Yankee&left_text=Visitors" alt="Visitor Badge" />
 </div>
-
-
-
-
-
-
-
