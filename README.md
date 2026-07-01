@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Santiago Usaj</h1>
-<h3 align="center">Frontend Developer | Computer Science Student</h3>
+<h3 align="center">Frontend Developer | Computer Analyst</h3>
 
 ---
 
