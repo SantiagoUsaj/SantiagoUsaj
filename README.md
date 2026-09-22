@@ -43,6 +43,5 @@
 
 
 ###
-<a href="https://github.com/gonzalia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santiagousaj&layout=compact&langs_count=8&theme=dark"/>
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SantiagoUsaj&layout=compact&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=SantiagoUsaj&layout=compact&langs_count=8&theme=dark_github)
+
